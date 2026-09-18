@@ -8,7 +8,7 @@ This is a pre-release draft, not a finished store-submission policy. The develop
 
 Randator is provided by Ciprian Nuta, an individual developer operating in Romania. [ANY LEGALLY REQUIRED PUBLIC BUSINESS/CONTACT ADDRESS — REVIEW BEFORE PUBLICATION]. This developer is responsible for personal information they process in connection with Randator.
 
-Privacy and support contact: ciprian.nuta@gmail.com. Public privacy-policy URL: https://cipriannuta.github.io/randator-privacy/privacy/ . Effective date: [YYYY-MM-DD — SET AT PUBLICATION].
+Privacy and support contact: randatorapp@gmail.com. Public privacy-policy URL: https://cipriannuta.github.io/randator-privacy/privacy/ . Effective date: [YYYY-MM-DD — SET AT PUBLICATION].
 
 This notice describes the Android and iOS app. The planned Android contribution website, Apple's in-app purchase service and device backup services also have their own policies. The planned contribution flows below are not descriptions of active payment services. This notice is available inside the app without opening a website; the public policy URL provides a separate copy for users and store listings.
 
@@ -72,7 +72,7 @@ For the planned Android service, review Buy Me a Coffee's policies: https://www.
 
 ## Privacy requests and contact
 
-For questions or concerns about information processed by the developer, email ciprian.nuta@gmail.com. Do not include passwords or full payment-card details in a request. The developer uses your email address, message contents and any information you voluntarily provide to respond to and resolve your request. Support is handled through Google Gmail only, without a separate helpdesk service.
+For questions or concerns about information processed by the developer, email randatorapp@gmail.com. Do not include passwords or full payment-card details in a request. The developer uses your email address, message contents and any information you voluntarily provide to respond to and resolve your request. Support is handled through Google Gmail only, without a separate helpdesk service.
 
 Support emails are kept while a request is being handled and for three months after it is resolved, then deleted from the support mailbox. This is a manual mailbox-management practice, not an automatic deletion feature of the app. Google's handling of email, including its own retention and backup processes, is governed by its applicable terms and privacy policy: https://policies.google.com/privacy . Deleting a message from the developer's mailbox does not delete copies in your own mailbox.
 
