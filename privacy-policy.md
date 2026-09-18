@@ -1,20 +1,20 @@
-# Randomizer — Privacy Policy & Terms
+# Randator — Privacy Policy & Terms
 
 ## Draft — complete before publication
 
-This is a pre-release draft, not a finished store-submission policy. The developer must complete any legally required address details, date and public URL below; verify third-party SDK behavior; and finalize any payment-related disclosures before publication. Optional contributions are not available in the current app build.
+This is a pre-release draft, not a finished store-submission policy. The developer must complete any legally required address details and date below; verify the final notice at the public URL and third-party SDK behavior; and finalize any payment-related disclosures before publication. Optional contributions are not available in the current app build.
 
-## Who operates Randomizer
+## Who operates Randator
 
-Randomizer is provided by Ciprian Nuta, an individual developer operating in Romania. [ANY LEGALLY REQUIRED PUBLIC BUSINESS/CONTACT ADDRESS — REVIEW BEFORE PUBLICATION]. This developer is responsible for personal information they process in connection with Randomizer.
+Randator is provided by Ciprian Nuta, an individual developer operating in Romania. [ANY LEGALLY REQUIRED PUBLIC BUSINESS/CONTACT ADDRESS — REVIEW BEFORE PUBLICATION]. This developer is responsible for personal information they process in connection with Randator.
 
-Privacy and support contact: ciprian.nuta@gmail.com. Public privacy-policy URL: [PUBLIC HTTPS PRIVACY POLICY URL]. Effective date: [YYYY-MM-DD — SET AT PUBLICATION].
+Privacy and support contact: ciprian.nuta@gmail.com. Public privacy-policy URL: https://cipriannuta.github.io/randator-privacy/privacy/ . Effective date: [YYYY-MM-DD — SET AT PUBLICATION].
 
 This notice describes the Android and iOS app. The planned Android contribution website, Apple's in-app purchase service and device backup services also have their own policies. The planned contribution flows below are not descriptions of active payment services. This notice is available inside the app without opening a website; the public policy URL provides a separate copy for users and store listings.
 
 ## Completely free, with equal access
 
-All Randomizer functionality is completely free. Every user has the same access to features and the same opportunities, whether or not they contribute money.
+All Randator functionality is completely free. Every user has the same access to features and the same opportunities, whether or not they contribute money.
 
 Contributions are entirely optional support for the individual developer. They do not unlock features, remove restrictions, improve odds, influence random results, provide prizes, or grant badges, exclusive content or any other paid advantage. No contribution is required to use or continue using the app.
 
@@ -30,7 +30,7 @@ Avoid entering sensitive information or another person's personal details unnece
 
 The app saves the selected appearance/theme, dark-mode preference, number-and-color refresh interval and allowed colors using the device's application preferences. These settings are used to restore your choices and remain until changed or removed with the app's local data. There is no developer-hosted copy of these settings in the current implementation.
 
-Device backup or transfer services may copy and restore app data according to your device/account settings. Android backup is currently enabled. Such backups are controlled by the operating-system provider and you, not by a Randomizer server; data restored from a backup may reappear after reinstalling the app.
+Device backup or transfer services may copy and restore app data according to your device/account settings. Android backup is currently enabled. Such backups are controlled by the operating-system provider and you, not by a Randator server; data restored from a backup may reappear after reinstalling the app.
 
 You can change saved preferences in the app. On Android, use system settings to clear the app's storage, or uninstall it. On iOS, delete the app rather than merely offloading it to remove its local app data. Manage or delete device/cloud backups separately through your device or backup provider. These actions do not erase payment, store or support records held separately by other parties.
 
@@ -38,7 +38,7 @@ You can change saved preferences in the app. On Android, use system settings to 
 
 The Android app declares internet access and network-state access. These declarations do not grant access to contacts, precise location, photos, microphone or camera. The current tools do not request those permissions. Future Android browser checkout and iOS in-app purchases will require internet access through their respective providers.
 
-Randomizer uses .NET MAUI, CommunityToolkit.Maui and Syncfusion UI components. Before this draft is published, their release-build data practices must be verified and any actual collection, recipients, purposes, retention or transfers must be described here. Absence of a custom analytics service is not evidence that every dependency is telemetry-free.
+Randator uses .NET MAUI, CommunityToolkit.Maui and Syncfusion UI components. Before this draft is published, their release-build data practices must be verified and any actual collection, recipients, purposes, retention or transfers must be described here. Absence of a custom analytics service is not evidence that every dependency is telemetry-free.
 
 The current app relies on the operating system's application storage protections; it does not promise separate encryption of preference values. No storage or transmission method is completely secure. Do not use the app to store secrets or sensitive records.
 
@@ -82,19 +82,19 @@ The developer cannot retrieve local tool inputs that were never sent to them. Co
 
 ## Children and the intended audience
 
-Randomizer is a general-audience app, not specifically directed at children. Store age ratings describe content suitability and are not permission to make payments. Children and users who cannot legally authorize a payment must not contribute without any parent/guardian permission and eligibility required by local law and the payment provider. The app does not verify contributor age or provide parental consent collection.
+Randator is a general-audience app, not specifically directed at children. Store age ratings describe content suitability and are not permission to make payments. Children and users who cannot legally authorize a payment must not contribute without any parent/guardian permission and eligibility required by local law and the payment provider. The app does not verify contributor age or provide parental consent collection.
 
-If you believe a child has sent personal information directly to the developer, contact the completed privacy address so the matter can be reviewed and information deleted where required. Do not assume a payment provider is suitable for children simply because Randomizer's tools are free.
+If you believe a child has sent personal information directly to the developer, contact the completed privacy address so the matter can be reviewed and information deleted where required. Do not assume a payment provider is suitable for children simply because Randator's tools are free.
 
 ## Random results, safe use and no gambling
 
-Randomizer provides tools for entertainment, practice and casual decisions. It does not accept stakes, offer cash payouts, operate lotteries or award prizes. Optional support must remain separate from outcomes and must never buy extra entries, chances or preferential selection.
+Randator provides tools for entertainment, practice and casual decisions. It does not accept stakes, offer cash payouts, operate lotteries or award prizes. Optional support must remain separate from outcomes and must never buy extra entries, chances or preferential selection.
 
 Results are not predictions, professional advice or certified draws. The app is not intended for regulated gambling, legally binding prize draws, cryptographic/security decisions, or medical, financial or other high-stakes decisions. You are responsible for lawful use and for any activity you organize with a result. Training tools are not medical guidance; use an appropriate environment and stop if an activity is unsafe.
 
 ## Terms, ownership and your legal rights
 
-Use Randomizer lawfully and do not use it to misrepresent results, deceive others, infringe rights or conduct unlawful contests. A contribution does not create ownership in the app or a right to future paid services. The app and its third-party components remain subject to their applicable intellectual-property rights and licenses. Distribution through an app store is also subject to that store's applicable terms and license agreement.
+Use Randator lawfully and do not use it to misrepresent results, deceive others, infringe rights or conduct unlawful contests. A contribution does not create ownership in the app or a right to future paid services. The app and its third-party components remain subject to their applicable intellectual-property rights and licenses. Distribution through an app store is also subject to that store's applicable terms and license agreement.
 
 The app may contain errors or become temporarily unavailable. To the extent permitted by applicable law, no guarantee is made that results or availability will meet a particular purpose. Nothing in these terms excludes liability, statutory warranties, privacy rights or consumer remedies that cannot lawfully be excluded or limited. No governing-law or dispute-forum clause is invented in this draft; any additional terms require review for the developer's location and target markets.
 
