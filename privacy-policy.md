@@ -72,7 +72,9 @@ For the planned Android service, review Buy Me a Coffee's policies: https://www.
 
 ## Privacy requests and contact
 
-For questions or concerns about information processed by the developer, use the completed privacy contact above. Do not include passwords or full payment-card details in a request. Information you voluntarily send in a support message, including your address and message contents, would need to be used to answer that request. The developer must finalize and disclose their support-record retention policy and email providers before publication.
+For questions or concerns about information processed by the developer, email ciprian.nuta@gmail.com. Do not include passwords or full payment-card details in a request. The developer uses your email address, message contents and any information you voluntarily provide to respond to and resolve your request. Support is handled through Google Gmail only, without a separate helpdesk service.
+
+Support emails are kept while a request is being handled and for three months after it is resolved, then deleted from the support mailbox. This is a manual mailbox-management practice, not an automatic deletion feature of the app. Google's handling of email, including its own retention and backup processes, is governed by its applicable terms and privacy policy: https://policies.google.com/privacy . Deleting a message from the developer's mailbox does not delete copies in your own mailbox.
 
 Depending on your location and the processing involved, you may have rights to access, correct, delete, restrict or object to processing of your personal information, obtain a portable copy, withdraw consent where processing relies on consent, and complain to the appropriate privacy regulator. These rights are subject to applicable conditions and lawful retention requirements. Withdrawing consent does not affect earlier lawful processing.
 
