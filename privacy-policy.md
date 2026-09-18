@@ -1,14 +1,12 @@
 # Randator — Privacy Policy & Terms
 
-## Draft — complete before publication
-
-This is a pre-release draft, not a finished store-submission policy. The developer must complete any legally required address details and date below; verify the final notice at the public URL and third-party SDK behavior; and finalize any payment-related disclosures before publication. Optional contributions are not available in the current app build.
+This policy applies to the current Randator app and is effective from 2026-09-18. Optional contributions are not available in the current app build.
 
 ## Who operates Randator
 
-Randator is provided by Ciprian Nuta, an individual developer operating in Romania. [ANY LEGALLY REQUIRED PUBLIC BUSINESS/CONTACT ADDRESS — REVIEW BEFORE PUBLICATION]. This developer is responsible for personal information they process in connection with Randator.
+Randator is provided by Ciprian Nuta, an individual developer operating in Romania. This developer is responsible for personal information they process in connection with Randator.
 
-Privacy and support contact: randatorapp@gmail.com. Public privacy-policy URL: https://cipriannuta.github.io/randator-privacy/privacy/ . Effective date: [YYYY-MM-DD — SET AT PUBLICATION].
+Privacy and support contact: randatorapp@gmail.com. Public privacy-policy URL: https://cipriannuta.github.io/randator-privacy/privacy/. Effective date: 2026-09-18.
 
 This notice describes the Android and iOS app. The planned Android contribution website, Apple's in-app purchase service and device backup services also have their own policies. The planned contribution flows below are not descriptions of active payment services. This notice is available inside the app without opening a website; the public policy URL provides a separate copy for users and store listings.
 
@@ -38,7 +36,7 @@ You can change saved preferences in the app. On Android, use system settings to 
 
 The Android app declares internet access and network-state access. These declarations do not grant access to contacts, precise location, photos, microphone or camera. The current tools do not request those permissions. Future Android browser checkout and iOS in-app purchases will require internet access through their respective providers.
 
-Randator uses .NET MAUI, CommunityToolkit.Maui and Syncfusion UI components. Before this draft is published, their release-build data practices must be verified and any actual collection, recipients, purposes, retention or transfers must be described here. Absence of a custom analytics service is not evidence that every dependency is telemetry-free.
+Randator uses .NET MAUI, CommunityToolkit.Maui and Syncfusion UI components. The current app configuration disables Syncfusion telemetry, and the current app code does not configure a developer-operated analytics, advertising or crash-reporting service. These statements do not mean that operating-system services, app stores, external websites or third-party providers never process technical information under their own policies.
 
 The current app relies on the operating system's application storage protections; it does not promise separate encryption of preference values. No storage or transmission method is completely secure. Do not use the app to store secrets or sensitive records.
 
@@ -68,7 +66,7 @@ Before any contribution flow is enabled, the developer must confirm and disclose
 
 For a future Android contribution, keep your receipt and use the provider's transaction-specific support/refund process or contact the developer using the completed contact above. For an iOS in-app purchase, use Apple's purchase support/refund process, including https://reportaproblem.apple.com/ where available. The developer cannot promise that Apple or another provider will approve a refund. The published flows must identify the actual refund contacts and applicable provider terms. No blanket promise that all contributions are refundable or non-refundable is made here. Any mandatory consumer, cancellation, refund or chargeback rights under applicable law remain unaffected. If recurring support is offered separately by the Android provider, cancellation and refund are different actions; use that provider's cancellation process to stop future charges.
 
-For the planned Android service, review Buy Me a Coffee's policies: https://www.buymeacoffee.com/privacy-policy and https://www.buymeacoffee.com/terms . For planned iOS purchases, review Apple's privacy policy at https://www.apple.com/legal/privacy/ and applicable Apple Media Services terms at https://www.apple.com/legal/internet-services/itunes/ . The applicable providers and terms must be verified before launch.
+For any future Android checkout, Buy Me a Coffee's privacy policy and terms will apply to that external service: https://www.buymeacoffee.com/privacy-policy and https://www.buymeacoffee.com/terms. For any future iOS purchases, Apple's privacy policy and applicable Apple Media Services terms will apply: https://www.apple.com/legal/privacy/ and https://www.apple.com/legal/internet-services/itunes/. The policy will be updated if these planned services are introduced.
 
 ## Privacy requests and contact
 
@@ -78,7 +76,7 @@ Support emails are kept while a request is being handled and for three months af
 
 Depending on your location and the processing involved, you may have rights to access, correct, delete, restrict or object to processing of your personal information, obtain a portable copy, withdraw consent where processing relies on consent, and complain to the appropriate privacy regulator. These rights are subject to applicable conditions and lawful retention requirements. Withdrawing consent does not affect earlier lawful processing.
 
-The developer cannot retrieve local tool inputs that were never sent to them. Contact external payment, store or backup providers for information those providers control. Before processing personal information for users in jurisdictions requiring additional disclosures, the developer must complete the applicable legal-basis, transfer-safeguard, representative and retention details. This draft does not select a legal basis or promise a jurisdiction's compliance without those facts.
+The developer cannot retrieve local tool inputs that were never sent to them. Contact external payment, store or backup providers for information those providers control. Personal information is handled only as needed to provide support, maintain the app, comply with applicable law, or protect the app and its users, subject to the rights and requirements that apply in the relevant jurisdiction.
 
 ## Children and the intended audience
 
@@ -96,7 +94,7 @@ Results are not predictions, professional advice or certified draws. The app is 
 
 Use Randator lawfully and do not use it to misrepresent results, deceive others, infringe rights or conduct unlawful contests. A contribution does not create ownership in the app or a right to future paid services. The app and its third-party components remain subject to their applicable intellectual-property rights and licenses. Distribution through an app store is also subject to that store's applicable terms and license agreement.
 
-The app may contain errors or become temporarily unavailable. To the extent permitted by applicable law, no guarantee is made that results or availability will meet a particular purpose. Nothing in these terms excludes liability, statutory warranties, privacy rights or consumer remedies that cannot lawfully be excluded or limited. No governing-law or dispute-forum clause is invented in this draft; any additional terms require review for the developer's location and target markets.
+The app may contain errors or become temporarily unavailable. To the extent permitted by applicable law, no guarantee is made that results or availability will meet a particular purpose. Nothing in these terms excludes liability, statutory warranties, privacy rights or consumer remedies that cannot lawfully be excluded or limited. No governing-law or dispute-forum clause is included; mandatory rights under applicable law remain unaffected.
 
 ## Changes to this notice
 
